@@ -1,32 +1,137 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Makina's portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
 
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+				<!-- Intro -->
+					<div id="intro">
+						<h1>Makina's portfolio<br />
+						</h1>
+						<p>A Mathematician with in-depth understanding of algebraic algorithms, numerical analysis,
+							Statistical theories and their application to real word situations. Skilled in SQL, Power BI, Python and R   <a href="https://www.linkedin.com/in/mulimbika-makina-10438120a">@linkedIn</a>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">Makina's projects</a>
+					</header>
 
-(* = not included)
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a href="index.html">projects</a></li>
+							
+						</ul>
+						<ul class="icons">
+							<li><a href="https://www.linkedin.com/in/mulimbika-makina-10438120a" class="icon brands alt fa-linkedin"><span class="linkedin"></span></a></li>
+							<li><a href="https://github.com/makina0928" class="icon brands alt fa-github"><span class="github"></span></a></li>
+						</ul>
+					</nav>
 
-AJ
-aj@lkn.io | @ajlkn
+				<!-- Main -->
+					<div id="main">
 
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+							
+									<h2><a href="https://github.com/makina0928/SQL-FOR-DATA-ANALYSIS">DATA EXPLORATION IN SQL<br />
+								 </a></h2>
+									<p>In this project we explore sales data using MySQL workbench to generate business insights.</p>
+								</header>
+								<a href="https://github.com/makina0928/SQL-FOR-DATA-ANALYSIS" class="image main"><img src="images/sql-for-data-analysis.jpg" alt="" /></a>
+								<ul class="actions special">
+									<li><a href="https://github.com/makina0928/SQL-FOR-DATA-ANALYSIS" class="button large">View project</a></li>
+								</ul>
+							</article>
 
-Credits:
+						<!-- Posts -->
+							<section class="posts">
+								<article>
+									<header>
+										
+										<h2><a href=" https://github.com/makina0928/BUSINESS-INSIGHTS-NOTEBOOK">Business Insights using Python<br />
+										</a></h2>
+									</header>
+									<a href=" https://github.com/makina0928/BUSINESS-INSIGHTS-NOTEBOOK" class="image fit"><img src="images/jupyter.png" alt="" /></a>
+									<p>Jupyter notebook and python libraries such as pandas, matplotlib, seaborn and scikitlearn were used to generate 33 business insights from online retail sales dataset.</p>
+									<ul class="actions special">
+										<li><a href=" https://github.com/makina0928/BUSINESS-INSIGHTS-NOTEBOOK" class="button">VIEW PROJECT</a></li>
+									</ul>
+								</article>
+								
+								<!-- Posts -->
+							<section class="posts">
+								<article>
+									<header>
+										
+										<h2><a href="https://github.com/makina0928/Power-BI-sales-dashboard">Power BI sales dashboard<br />
+										</a></h2>
+									</header>
+									<a href="https://github.com/makina0928/Power-BI-sales-dashboard" class="image fit"><img src="images/powerbi.jpg" alt="" /></a>
+									<p>In this project Microsoft Power BI was used to analyse supermarket store. Data Analysis Expressions (DAX) were used to come up with new measures for more insights such as Current Year (CY) sales.</p>
+									<ul class="actions special">
+										<li><a href="https://github.com/makina0928/Power-BI-sales-dashboard" class="button">VIEW PROJECT</a></li>
+									</ul>
+								</article>
+						
+							</section>
+						<section class="split contact">
+							<section class="alt">
+								<h3>location</h3>
+								<p>	Lusaka, Zambia<br />
+								</p>
+							</section>
+							<section>
+								<h3>Phone</h3>
+								<p><a href="#">(+260) 972-073722</a></p>
+							</section>
+							<section>
+								<h3>Email</h3>
+								<p><a href="#">makinamulimbika0928@gmail.com</a></p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									<li><a href="https://www.linkedin.com/in/mulimbika-makina-10438120a" class="icon brands alt fa-linkedin"><span class="linkedin">linkedIn</span></a></li>
+									<li><a href="https://github.com/makina0928" class="icon brands alt fa-github"><span class="github">GitHub</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
 
-	Demo Images:
-		Unsplash (unsplash.com)
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
 
-	Icons:
-		Font Awesome (fontawesome.io)
+			</div>
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
