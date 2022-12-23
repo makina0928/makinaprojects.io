@@ -30,7 +30,7 @@
 
 				<!-- Header -->
 					<header id="header">
-						<a href="index.html" class="logo">Makina's projects</a>
+						<a href="index.html" class="logo">Welcome to my portfolio</a>
 					</header>
 
 				<!-- Nav -->
@@ -67,13 +67,13 @@
 								<article>
 									<header>
 										
-										<h2><a href=" https://github.com/makina0928/BUSINESS-INSIGHTS-NOTEBOOK">Business Insights using Python<br />
+										<h2><a href="https://nbviewer.org/github/makina0928/BUSINESS-INSIGHTS-NOTEBOOK/blob/main/Business_insights.ipynb">Business Insights using Python<br />
 										</a></h2>
 									</header>
-									<a href=" https://github.com/makina0928/BUSINESS-INSIGHTS-NOTEBOOK" class="image fit"><img src="images/jupyter.png" alt="" /></a>
+									<a href="https://nbviewer.org/github/makina0928/BUSINESS-INSIGHTS-NOTEBOOK/blob/main/Business_insights.ipynb" class="image fit"><img src="images/jupyter.png" alt="" /></a>
 									<p>Jupyter notebook and python libraries such as pandas, matplotlib, seaborn and scikitlearn were used to generate 33 business insights from online retail sales dataset.</p>
 									<ul class="actions special">
-										<li><a href=" https://github.com/makina0928/BUSINESS-INSIGHTS-NOTEBOOK" class="button">VIEW PROJECT</a></li>
+										<li><a href="https://nbviewer.org/github/makina0928/BUSINESS-INSIGHTS-NOTEBOOK/blob/main/Business_insights.ipynb" class="button">VIEW PROJECT</a></li>
 									</ul>
 								</article>
 								
@@ -82,33 +82,36 @@
 								<article>
 									<header>
 										
-										<h2><a href="https://github.com/makina0928/Power-BI-sales-dashboard">Power BI sales dashboard<br />
+										<h2><a href="https://nbviewer.org/github/makina0928/Superstore-sales-analysis/blob/main/superstore_sales_notebook.ipynb">Superstore sales analysis using MySQL, Python and Power BI<br />
 										</a></h2>
 									</header>
-									<a href="https://github.com/makina0928/Power-BI-sales-dashboard" class="image fit"><img src="images/powerbi.jpg" alt="" /></a>
-									<p>In this project Microsoft Power BI was used to analyse supermarket store. Data Analysis Expressions (DAX) were used to come up with new measures for more insights such as Current Year (CY) sales.</p>
+									<a href="https://nbviewer.org/github/makina0928/Superstore-sales-analysis/blob/main/superstore_sales_notebook.ipynb" class="image fit"><img src="images/SUPERSTORE COVER.jpg" alt="" /></a>
+									<p>MySQL, Python and Power BI were used to analyse Superstore dataset and come up with insights and recommendations to improve profit.</p>
 									<ul class="actions special">
-										<li><a href="https://github.com/makina0928/Power-BI-sales-dashboard" class="button">VIEW PROJECT</a></li>
+										<li><a href="https://nbviewer.org/github/makina0928/Superstore-sales-analysis/blob/main/superstore_sales_notebook.ipynb" class="button">VIEW PROJECT</a></li>
 									</ul>
 								</article>
+
 						
+
+
 							</section>
 						<section class="split contact">
 							<section class="alt">
-								<h3>location</h3>
-								<p>	Lusaka, Zambia<br />
+								<h3>location:</h3>
+								<h4>Lusaka, Zambia<h4/>
 								</p>
 							</section>
 							<section>
-								<h3>Phone</h3>
-								<p><a href="#">(+260) 972-073722</a></p>
+								<h3>Phone:</h3>
+								<h4><a href="#">(+260) 972-073722</a></h4>
 							</section>
 							<section>
-								<h3>Email</h3>
-								<p><a href="#">makinamulimbika0928@gmail.com</a></p>
+								<h3>Email:</h3>
+								<h4><a href="#">makinamulimbika0928@gmail.com</a></h4>
 							</section>
 							<section>
-								<h3>Social</h3>
+								<h3>Social:</h3>
 								<ul class="icons alt">
 									<li><a href="https://www.linkedin.com/in/mulimbika-makina-10438120a" class="icon brands alt fa-linkedin"><span class="linkedin">linkedIn</span></a></li>
 									<li><a href="https://github.com/makina0928" class="icon brands alt fa-github"><span class="github">GitHub</span></a></li>
